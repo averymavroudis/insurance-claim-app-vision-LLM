@@ -1,0 +1,5 @@
+streamlit
+ollama
+base64
+datetime
+requests
