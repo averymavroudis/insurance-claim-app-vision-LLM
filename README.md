@@ -22,7 +22,7 @@ The application accepts images of damages sustained to a home for a homeowner's 
 1. Create Account with WeatherAPI at https://www.weatherapi.com/signup.aspx
 2. Log in to account and copy API key from dashboard.
 3. Paste in `weather_api_key` variable
-*Note: On sign up you will be subscribed to Pro Plus plan for free, no obligation 14 day trial. After trial has ended you will be automatically switched to Free plan. The Pro Plus plan allows you to query historical weather, while the free plan does not. Keep this in mind when selecting a date in the UI as you will get an error if your plan does not allow queries on dates prior or today.*
+*Note: On sign up you will be subscribed to Pro Plus plan for free, no obligation 14 day trial. After trial has ended you will be automatically switched to Free plan. The Pro Plus plan allows you to query historical weather, while the free plan does not. Keep this in mind when selecting a date in the UI as you will get an error if your plan does not allow queries on dates prior to today.*
 
 ### Install Required Packages
 1. Run `pip install -r requirements.txt`
